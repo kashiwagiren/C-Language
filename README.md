@@ -1,1 +1,1 @@
-for my c/c++ projects
+for my school c/c++ projects
